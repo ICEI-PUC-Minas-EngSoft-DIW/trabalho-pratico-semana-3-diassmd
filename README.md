@@ -21,4 +21,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<< ![Print Tela Site](public/print_site.png) >>
+<< ![Print Tela Site](public/iamges/print_site.png) >>
