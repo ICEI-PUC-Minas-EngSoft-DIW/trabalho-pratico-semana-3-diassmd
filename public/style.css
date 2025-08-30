@@ -1,3 +1,69 @@
+/* Box-model e layout geral */
 body {
-    background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.site-header, .site-footer {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  position: relative;
+}
+
+.menu-nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-nav ul li {
+  margin-right: 15px;
+}
+
+.menu-nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.search-form {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 5px;
+}
+
+.conteudo-principal {
+  padding: 20px;
+}
+
+.secao-noticias {
+  margin-bottom: 30px;
+}
+
+.secao-noticias .noticia {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.secao-formulario {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.form-newsletter input,
+.form-newsletter button {
+  display: block;
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+}
+
+.site-footer {
+  text-align: center;
+  margin-top: 40px;
 }
