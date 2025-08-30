@@ -1,4 +1,3 @@
-/* Box-model e layout geral */
 body {
   margin: 0;
   padding: 0;
@@ -41,7 +40,7 @@ body {
 }
 
 .secao-noticias {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .secao-noticias .noticia {
@@ -67,3 +66,10 @@ body {
   text-align: center;
   margin-top: 40px;
 }
+.imagem-noticia {
+  width: 300px;       /* Largura fixa */
+  height: auto;       /* Mantém proporção */
+  display: block;
+  margin-bottom: 10px;
+}
+
