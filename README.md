@@ -16,9 +16,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-<< ![Print do Wireframe](wireframe_futebol.png)>>
+<< ![Print Wireframe](public/images/wireframe_futebol.png) >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![Print Tela Site](public/print_site.png) >>
